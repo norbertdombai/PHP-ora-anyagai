@@ -1,0 +1,7 @@
+PHP dolgozat előkészítő
+Aki óra végéig leadja, az kaphat - megfelelő eredmény esetén - megajánlott jegyet!
+Megfelelő felhasználónév/jelszó páros használatával belépve tudunk megjegyzést írni egy fájlba. Mindenki a saját felhasznaloNev.txt fájlba írja a megjegyzéseit, egyszerűen hozzáfűzve a korábbiakhoz. Mind a belépésre, mind a megjegyzés küldésre egy egyszerű form szolgál.
+
+Account-ot az admin tud adni. Ha adminként lépünk be, akkor lehet új felhasználónév/jelszó párost létrehozni és eltárolni egy protected/users.txt fájlban. Feltételezzük, hogy nincs kettő egyforma nevű felhasználó, ellenőrizni nem kell. Nem  kell szerkeszteni, vagy látni az eddig felvittek adatokat, csak új felhasználókat felvinni.
+
+Természetesen mind az admin, mind user oldala csak belépés után elérhető!
